@@ -1,0 +1,6 @@
+python-dotenv
+flask
+flask_socketio
+flask_bootstrap
+flask-mqtt
+eventlet
